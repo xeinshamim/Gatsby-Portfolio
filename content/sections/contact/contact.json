@@ -1,0 +1,13 @@
+{
+  "name": "Feel free to contact me.",
+  "email": "admin@muhammadshamim.pro",
+  "description": "Want to connect or have a question? Feel free to email me or hit me up on social media!",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "G-mail Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Facebook", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

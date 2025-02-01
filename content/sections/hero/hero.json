@@ -1,0 +1,22 @@
+{
+  "intro": "Hey!",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Programmer.",
+  "subtitle": {
+    "prefix": "I do all the setup ",
+    "highlight": "for you",
+    "suffix": "."
+  },
+  "description": " Welcome to my spot on the web for writing, projects, tutorials, art, and anything else I want to put out there. On the site, you'll find my notes and all the technical articles I've written over the years. Check out the projects page to see a highlight of my open-source work.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Facebook", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

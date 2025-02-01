@@ -1,0 +1,41 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://xeinshamim.netlify.app/",
+    "title": "Muhammad Shamim's Portfolio",
+    "titleTemplate": "%s · Portfolio",
+    "description": "Muhammad Shamim's Portfolio.",
+    "author": "Muhammad Shamim",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "I’m a cybersecurity enthusiast, software engineering student, and web developer passionate about crafting secure and innovative digital solutions.",
+    "social": {
+      "github": "https://github.com/xeinshamim",
+      "medium": "https://xeinshamim.medium.com",
+      "linkedin": "https://www.linkedin.com/in/xeinshamim/",
+      "facebook": "https://www.facebook.com/xeinshamim/",
+      "mail": "mailto:xeinshamim@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Muhammad Shamim" },
+    "navigation": {
+      "header": [
+        { "label": "Notes", "url": "/notes" },
+        { "label": "Articles", "url": "/articles" },
+        { "label": "Projects", "url": "/projects" },
+        { "label": "About me", "url": "/about" },
+        { "label": "Contact", "url": "/contact" }
+      ],
+
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
